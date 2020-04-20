@@ -6,3 +6,5 @@ Canada. If it is found, the province the area code is from will be displayed.
 
 I used https://www.areacodehelp.com/canada/canada_area_codes.shtml to help 
 create areaCodeList.txt.
+
+This program was made and tested in a Linux environment.
