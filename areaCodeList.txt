@@ -1,0 +1,55 @@
+368: Alberta
+403: Alberta
+587: Alberta
+780: Alberta
+825: Alberta
+236: British Columbia
+250: British Columbia
+604: British Columbia
+672: British Columbia
+778: British Columbia
+204: Manitoba
+431: Manitoba
+506: New Brunswick
+428: New Brunswick
+709: Newfoundland and Labrador
+879: Newfoundland and Labrador
+867: Northwest Territories/Nunavut/Yukon
+782: Nova Scotia/Prince Edward Island
+902: Nova Scotia/Prince Edward Island
+226: Ontario
+249: Ontario
+289: Ontario
+343: Ontario
+365: Ontario
+416: Ontario
+437: Ontario
+519: Ontario
+548: Ontario
+613: Ontario
+647: Ontario
+705: Ontario
+807: Ontario
+905: Ontario
+354: Quebec
+367: Quebec
+418: Quebec
+438: Quebec
+450: Quebec
+514: Quebec
+579: Quebec
+581: Quebec
+819: Quebec
+873: Quebec
+306: Saskatchewan
+474: Saskatchewan
+639: Saskatchewan
+600: Non-Geographic
+622: Non=-Geographic
+800: Toll Free Numbers
+833: Toll Free Numbers
+844: Toll Free Numbers
+855: Toll Free Numbers
+866: Toll Free Numbers
+877: Toll Free Numbers
+888: Toll Free Numbers
